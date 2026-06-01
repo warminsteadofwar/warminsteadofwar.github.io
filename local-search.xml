@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>🔒 加密文章测试</title>
+    <link href="/2026/06/01/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/"/>
+    <url>/2026/06/01/%E5%8A%A0%E5%AF%86%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt"     data-hbe-format="4"     data-wpm="密码错误，请重试！"     data-whm="密码错误，请重试！"     data-salt="7c824b4aca1e058691222be5e4d016c0163477d9447b82cd81ad20ca8eafef99"     data-nonce="90acedfff5e9e217f92e73f7"     data-kdf-iterations="250000"     data-auto-save="false">  <script id="hbeData" type="hbeData">    6b9e5aeb2962cd70f57d6cf9c621b2a5b93fbfa17b1ec7fb7d620ad09780aea9386ed72e785911bf022e7d27dc34880f96f39c5d7ab43efd4c510bc5ce4bd9a88b4dcde991319cb7a712529712b9212d5a4872f8f346f43039a46421a022c84884b9206f4c707d31ffb350210580b350e7faf0eff09c381b01a58e17dcaced9706efa4a58020eaec89f6f1cfcc4a1534602af90d1fb89d8aa86afc9a3159e8aa26ebafc5770dbee29561621ea0ec08c66b57209ba147d825a7c7ca5f4db82c7741d1a85c783ab44835ecebc7966471c2b71bd63d4db430b5016bc9089e69d5209a4fa691cf911e4839517084bf97436ad4af229b0bfe912ff377863afc5f9f248d0873c09d8f2fff27d4cb7e95d2e3d725248d01fbbfd2181f7ca46926ce85d1133ae51b91115f172398ac3fbc1fefe400336b517c1dda5411563bd0b7efbe4b1727a35937aa1fd9970c550fb77fce34bd4326582bc154b5158af88a5a6fd45a3585d288d006456ba544a38137d0c185d568a574cea7be25585edae5a5dad2ed097286833f763a6ad7d7a1bc78b929115ee5cdc86cfe68a6169464479a62fdef9ca8378bb3968ba866a3bc46013627f0ccc091519052ad5703247f4c2454e5121fab67666d8402fe9ce9be9d41c45e3746f07cab7f443d85e69aafdabff0e1d344cae4ec03b65eec74a6ff91f1eb397734dd2f7bc7d3c877a13838919543a965cc3e3f17568e338ad2b9ed66cf737743f09718b7426fcd41941fa5c4636cc872956743136149ee5fb63bb341a38293b9b450276d05b1091c94f7d487848f70ab090d22b73470c9a90307d72edd016e4df3b35a2bb700f896e28fb7ced4711c2e1dcec4f19a776c247c99db2bfc9d116248cabdef479e8e0c4b8340227ed220943adc28249bdae1b35aa5d440c823378d4229167c89ab1b825541ebd5f0cb72c5e98254dcfd245c445f5cc4deb471afa4c88b1d29cbcba6a333976f8ffe80e3b782b2331fcb48887cff5846fe4f3c2a86da56d7735aa17a6aa37f7eb46bef83e6d76669e364bec2fd4074fb8115186858de927886c7bf240a550f2adb59d548899593b7bfc2c0bcacf88e41227e619fcc82bcc9ecf16f1676311acfd6aea7e2f381949aada79e6ed614ad31b8c96435832a6a58f59d820fb0d44ad7271c7047daacb7ee73294ef71d50abdf85034accc414b110ac84c4b3def706cadd41dc3d0dba7753749cb5ca333b5eb8e917292657297c6ba0c2fafc6498ee51b01b636c0ee41da092a6c24d5c4dda8cde8741e2484d9cf3f6c337173747054c01880c9da202aef2c09fef58d22cade478f4b53f7c203077f9b50e6b552b9c8d8ee9  </script>  <div class="hbe hbe-content">    <form id="hbeForm" class="hbe hbe-form" onsubmit="return false">      <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码：</span>      </label>    </div>      <button class="hbe hbe-button" type="submit">Decrypt</button>      <div class="hbe hbe-error" role="alert" aria-live="polite"></div>    </form>  </div></div><script data-pjax src="/lib/hbe.9a88ff0505.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <categories>
+      
+      <category>私密</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>我的影视清单</title>
     <link href="/2026/05/29/%E5%BD%B1%E8%A7%86%E6%B8%85%E5%8D%95/"/>
     <url>/2026/05/29/%E5%BD%B1%E8%A7%86%E6%B8%85%E5%8D%95/</url>
