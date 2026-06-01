@@ -1,23 +1,25 @@
 // 动态加载 oh-my-live2d 库（CDN），加载完成后初始化
 (function () {
   const s = document.createElement('script');
-  s.src = 'https://cdn.jsdelivr.net/npm/oh-my-live2d@latest/dist/index.min.js';
+  // 锁定版本，避免 @latest 出现破坏性更新
+  s.src = 'https://cdn.jsdelivr.net/npm/oh-my-live2d@0.19.3/dist/index.min.js';
   s.onload = initLive2d;
   document.head.appendChild(s);
 
   function initLive2d() {
     const oml2d = OML2D.loadOml2d({
-      // 模型：使用 oh-my-live2d 官方模型 CDN，可放多个供右键切换
+      // 模型：改用 jsdelivr 上稳定的 npm 模型源（原 model.oml2d.com 经常连不上，
+      // 是“加载失败/重新加载”的根因）。可放多个供右键切换。
       models: [
         {
-          path: 'https://model.oml2d.com/HK416-1-normal/model.json',
-          scale: 0.08,
+          path: 'https://cdn.jsdelivr.net/npm/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json',
+          scale: 0.15,
           position: [0, 60],
           stageStyle: { height: 350 },
         },
         {
-          path: 'https://model.oml2d.com/Senko_Normals/senko.model3.json',
-          scale: 0.5,
+          path: 'https://cdn.jsdelivr.net/npm/live2d-widget-model-koharu@1.0.5/assets/koharu.model.json',
+          scale: 0.15,
           position: [0, 60],
           stageStyle: { height: 350 },
         },
